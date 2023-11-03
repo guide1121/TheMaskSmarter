@@ -2,6 +2,7 @@
 # The mask smarter
 
 
+
 ## Application
 
 Download (Android Only) : https://drive.google.com/file/d/1S9rcZLA9tLkWnalIxd_tyfneNns0OzOg/view?usp=drive_link
@@ -9,7 +10,14 @@ Download (Android Only) : https://drive.google.com/file/d/1S9rcZLA9tLkWnalIxd_ty
 
 
 
+
+
 ## Diagram
 
-https://drive.google.com/file/d/1hp5UNY3yseAvEr8dNJOnwPuHvENGgG56/view?usp=sharing
+![App Screenshot](https://gcdnb.pbrd.co/images/sRDIk9vRADG2.png?o=1)
+
+## App Code
+![App Screenshot](https://gcdnb.pbrd.co/images/KdOg2eTPpF9B.png?o=1)
+
+
 
