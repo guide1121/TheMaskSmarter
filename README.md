@@ -11,5 +11,5 @@ Download (Android Only) : https://drive.google.com/file/d/1S9rcZLA9tLkWnalIxd_ty
 
 ## Diagram
 
-![App Screenshot](https://drive.google.com/file/d/1hp5UNY3yseAvEr8dNJOnwPuHvENGgG56/preview)
+https://drive.google.com/file/d/1hp5UNY3yseAvEr8dNJOnwPuHvENGgG56/view?usp=sharing
 
